@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="icon" href="https://emojiapi.dev/api/v1/heart/64.png" type="image/png">
+    <title>PinkBot 💖</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet">
+    <style> body { font-family: 'Nunito', sans-serif; } </style>
+</head>
+
+<body onload="loadTheme()">
+    <div class="wrapper">
+        <h1 class="main-heading">Your Personal Chatbot 💖</h1>
+        <p class="sub-heading">Chat your heart out. I’m always here for you 💬✨</p>
+
+        <button id="theme-toggle" onclick="toggleTheme()">Switch Theme 🎨</button>
+
+        <div class="chat-container" id="chat-container">
+            <div id="chat-box"></div>
+            <div class="input-area">
+                <input type="text" id="user-input" placeholder="Type something cute..." />
+                <button onclick="sendMessage()">Send</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="/static/script.js"></script>
+    <audio id="bot-sound" src="https://www.soundjay.com/buttons/sounds/button-30.mp3" preload="auto"></audio>
+
+</body>
+
+
+</html>
