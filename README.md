@@ -35,10 +35,10 @@ A web-based chatbot built using **HTML, CSS, JavaScript, and Python (Flask)** â€
 ## ðŸ§  Future Ideas
 
 - GPT integration (OpenAI API)
--Chat history by user
--Responsive mobile chat UI
--Speech-to-text input
--Emojis or stickers support
--git clone https://github.com/your-username/chatbot-with-memory.git
--cd chatbot-with-memory
+- Chat history by user
+- Responsive mobile chat UI
+- Speech-to-text input
+- Emojis or stickers support
+git clone https://github.com/your-username/chatbot-with-memory.git
+- cd chatbot-with-memory
 ---
