@@ -40,5 +40,6 @@ A web-based chatbot built using **HTML, CSS, JavaScript, and Python (Flask)** â€
 -Responsive mobile chat UI
 -Speech-to-text input
 -Emojis or stickers support
-git clone https://github.com/your-username/chatbot-with-memory.git
-cd chatbot-with-memory
+-git clone https://github.com/your-username/chatbot-with-memory.git
+-cd chatbot-with-memory
+---
