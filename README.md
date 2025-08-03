@@ -19,11 +19,9 @@ A web-based chatbot built using **HTML, CSS, JavaScript, and Python (Flask)** â€
 
 ---
 
-## ðŸ“¸ Screenshots
+## ðŸ“¸ Themes
 
 | Pink Theme | Lavender Theme | Dark Mode |
-|------------|----------------|-----------|
-| ![pink](https://via.placeholder.com/200x100/ffe6f0/000?text=Pink+Theme) | ![lavender](https://via.placeholder.com/200x100/e6e6fa/000?text=Lavender) | ![dark](https://via.placeholder.com/200x100/1c1c1c/fff?text=Dark+Mode) |
 
 ---
 
@@ -35,7 +33,8 @@ A web-based chatbot built using **HTML, CSS, JavaScript, and Python (Flask)** â€
 ---
 
 ## ðŸ§  Future Ideas
--GPT integration (OpenAI API)
+
+- GPT integration (OpenAI API)
 -Chat history by user
 -Responsive mobile chat UI
 -Speech-to-text input
